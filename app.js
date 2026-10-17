@@ -6,7 +6,6 @@
 
     var DATA = window.WPE_DATA || {};
     var ORDER = ["church", "classroom", "court", "culture", "community"];
-    var DEFAULT_POINTS = 10; // override per entry with a "points" field in data.js
     var MONTHS = { January: 0, February: 1, March: 2, April: 3, May: 4, June: 5, July: 6, August: 7, September: 8, October: 9, November: 10, December: 11 };
 
     var page = document.body.getAttribute("data-page");
@@ -47,6 +46,9 @@
         var m = /^(\d)/.exec(role || "");
         return m ? parseInt(m[1], 10) : 1;
     }
+
+    /* Points = the number at the start of the role (e.g. "2 - Working Member" = 2). */
+    function pointsOf(e) { return e.points != null ? e.points : levelOf(e.role); }
 
     function roleLabel(role) { return (role || "").replace(/^\d\s*-\s*/, ""); }
 
@@ -235,9 +237,9 @@
     ];
 
     function renderHome() {
-        var total = allEntries(), working = 0;
+        var total = allEntries(), working = 0, totalPoints = 0;
         ORDER.forEach(function (k) {
-            DATA[k].entries.forEach(function (e) { if (levelOf(e.role) >= 2) working++; });
+            DATA[k].entries.forEach(function (e) { if (levelOf(e.role) >= 2) working++; totalPoints += pointsOf(e); });
         });
 
         var hero = h("section", { class: "vintage-card", "aria-label": "Banner" }, [
@@ -250,7 +252,7 @@
             h("div", { class: "stats" }, [
                 stat(total, "Journal entries"),
                 stat(ORDER.length, "Categories"),
-                stat("55", "Points accumulated")
+                stat(totalPoints, "Points accumulated")
             ])
         ]);
 
@@ -441,7 +443,8 @@
             ? h("div", { class: "reflection" }, paras.map(function (t) { return h("p", { text: t }); }))
             : h("div", { class: "reflection pending" }, [h("p", { text: "Reflection not yet added." })]);
 
-        var points = (e.points != null ? e.points : DEFAULT_POINTS) + " Points";
+        var pts = pointsOf(e);
+        var points = pts + (pts === 1 ? " Point" : " Points");
 
         var wrap = h("section", { class: "vintage-card", "aria-labelledby": "detail-title" }, [
             h("div", { class: "detail-top" }, [
