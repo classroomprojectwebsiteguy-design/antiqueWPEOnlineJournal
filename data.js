@@ -310,7 +310,7 @@ window.WPE_DATA = {
         "title": "ROTC Sportsfest",
         "organizer": "SU ROTC",
         "date": "October 3, 2026 | 6:00AM",
-        "role": "1 - Participant",
+        "role": "1 - Participant (Player for One Game as well)",
         "venue": "SU Cimafranca Ballfield",
         "photo": "court_4_photo.jpg",
         "reflection": [
