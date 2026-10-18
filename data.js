@@ -1,5 +1,3 @@
-/* Journal data. Add or edit entries here; every page reads from this file.
-   Each entry's `reflection` is an array of four paragraphs (one string per paragraph). */
 window.WPE_DATA = {
   "church": {
     "name": "Church",
@@ -12,28 +10,28 @@ window.WPE_DATA = {
         "organizer": "Alma B. Ruiz/CHS 1",
         "date": "July 12, 2026 | 8:00AM",
         "role": "2 - Working Member - Choir",
-        "venue": "Silliman University Church Chapel",
+        "venue": "Chapel of The Evangel",
         "photo": "church_1_photo.jpg",
         "reflection": [
-          "On July 12, 2026, from 8:00 AM to 9:00 AM, I participated as a working member of the choir during the Sunday Chapel Worship Service held at the Silliman University Church, organized by Alma B. Ruiz / CHS 1. My role involved singing with the choir to lead the congregation in hymns and musical worship during the service.",
-          "Serving in the choir allowed me to develop my musical coordination and active participation in church life. My initial expectation was that it would simply be a routine performance, but I was deeply moved by the harmonious blending of voices and the collective devotion of the congregation. This experience expressed my core values of faith, dedication, and community service.",
-          "This experience reinforced my appreciation for spiritual music and its power to unite people in worship. I plan to continue my involvement in church music groups and apply this sense of harmony to my daily teamwork. If I could do this again, I would spend more time practicing the choral arrangements beforehand to enhance the musical offering.",
-          "Because of this activity, I am more spiritually grounded and appreciative of collaborative worship."
+          "On Sunday morning, July 12, 2026, I arrived at the Chapel of The Evangel, across from the SU Junior High School, by 8:00 AM for the Sunday Chapel Worship Service. The service began at roughly 8:30 AM and lasted about an hour. It was organized by Alma B. Ruiz, our CHS 1 teacher, who attended together with the congregation. My role was as a working member of the choir alongside my CHS 1 classmates, who sang with me while the rest of the congregation worshipped. Our objective was to practice and perform the South African Christian hymn 'Siyahamba' so that we could lead everyone in collaborative worship.",
+          "The new skill I picked up was harmonizing and blending my voice with a group, singing in both Zulu and English. I initially expected the whole thing to feel like a standard rehearsal with a little pressure, but my expectations changed once the congregation started to join in, because it turned into real worship and not just a performance. What surprised me was how emotional and spiritually moving corporate singing could be. The activity expressed my values of faith, humility, and teamwork, since the choir only sounded good when every voice listened to the others.",
+          "This experience broadened my worldview by reminding me that faith is shared across the globe through music and community, even in a language I do not speak. I can apply this by being more intentional and attentive whenever I sing or work in a group. I plan to continue my involvement by singing hymns at future campus services and supporting spiritual programs, and by staying in touch with my CHS 1 choir mates. I see clear benefits in this activity because it connected me with the Lord through singing instead of just sitting back and listening. If I could do it again, I would practice the foreign lyrics earlier so I could feel completely confident during the performance.",
+          "Because of this activity, I am more spiritually connected and more appreciative of collaborative worship music."
         ],
         "id": 1
       },
       {
-        "title": "Afternoon Sunday Mass",
+        "title": "Sunday Masses: Afternoon Mass (July 19) and Morning Mass (August 30)",
         "organizer": "Our Mother of Perpetual Help Parish",
-        "date": "July 19, 2026 | 3:00PM",
-        "role": "1 - Participant",
+        "date": "July 19, 2026 | 3:00PM and August 30, 2026 | 10:00AM",
+        "role": "2 - Participant (two Sunday Masses, 1 point each)",
         "venue": "Our Mother of Perpetual Help Parish Church",
         "photo": "church_2_photo.jpg",
         "reflection": [
-          "On July 19, 2026, from 3:00 PM to 4:00 PM, I took part in the Afternoon Sunday Mass, held at Our Mother of Perpetual Help Parish Church, organized by Our Mother of Perpetual Help Parish. I joined the congregation as a regular participant, taking part in the prayers, responses, and songs of the Mass.",
-          "I went in expecting a quiet and familiar routine, but the afternoon service gave me a chance to slow down and reflect after a busy week. Sharing the space with other worshippers reminded me that faith is practiced together and not only in private.",
-          "This experience strengthened my sense of belonging to a wider community of believers. I plan to keep attending services regularly and to set aside time for prayer on my own. If I could do it again, I would prepare my thoughts beforehand so I could take more from the homily.",
-          "Because of this activity, I am calmer, more grounded in my faith, and more mindful of the people I worship alongside."
+          "I attended two Sunday Masses at the Our Mother of Perpetual Help Parish Church in Dumaguete City, which I am combining in this entry. The first was the Afternoon Sunday Mass on July 19, 2026, from 3:00 PM to 4:00 PM, and the second was the Morning Sunday Mass on August 30, 2026, which was from 10:00 AM to 11:00 AM, which also lasted about an hour. Both were organized by the parish, with the priest presiding, the lectors reading the scriptures, and the parish community praying and singing together. My role in both was as a participant in the congregation, attending with my family. My objective was to fulfill my spiritual obligations, listen to the Word, and receive the Holy Eucharist.",
+          "The new skills I developed were meditative listening during the homily and active contemplation of the readings, which means connecting what is read to my own life instead of only hearing it. For the first Mass I expected a routine Sunday service, but my expectation changed when the homily's insights into patience and perseverance struck close to home and shifted how I think about managing stress through faith. For the second Mass I expected another familiar weekly routine, but the message on community service resonated with my college responsibilities. I was surprised at how messages I had heard in similar forms before could suddenly feel personal. The Masses expressed my values of faith, gratitude, family, and service.",
+          "These experiences influenced my worldview by showing me that spiritual breaks are essential for mental stability and that my schoolwork can be offered in service to others. I can apply what I learned by pausing to pray or reflect when I feel overwhelmed, and by looking for small ways to help classmates and my community. I plan to continue my involvement by attending Sunday Mass with my family regularly, paying closer attention to the readings, and joining parish activities when I can. The benefit of these activities is the calm and perspective they give me for the week ahead. If I could do it again, I would take structured notes on the homily and spend more time in quiet prayer afterward instead of rushing home.",
+          "Because of this activity, I am more reflective, intentional, and committed to nurturing my spiritual health."
         ],
         "id": 2
       },
@@ -42,43 +40,28 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 24, 2026 | 7:30AM",
         "role": "1 - Participant",
-        "venue": "Silliman University Campus Grounds",
+        "venue": "ATA Hall",
         "photo": "church_3_photo.jpg",
         "reflection": [
-          "On August 24, 2026, at 7:30 AM, I took part in the Founders Week Opening Devotion, held at Silliman University Campus Grounds, organized by CCS Confederates Student Council. I took part in the opening devotion as a participant, praying and reflecting together with fellow students and members of the university community.",
-          "I initially thought it would only be a formal start to the celebration, but the devotion made me think about the faith and sacrifice of the people who built Silliman. Standing together at the start of the week made the celebration feel meaningful and not just ceremonial.",
-          "The experience deepened my appreciation for the heritage I now belong to as a student. I plan to carry that sense of gratitude into my studies and into how I treat others on campus. If I could do it again, I would invite more of my classmates to attend with me.",
-          "Because of this activity, I am more grateful for my university's heritage and more committed to living out its values."
+          "On Monday morning, August 24, 2026, at 7:30 AM, I attended the CCS Founders Week Opening Devotion at the ATA Hall of the College of Computer Studies. It ran from 7:30 AM to 9:30 AM (about two hours), ahead of the 9:30 AM Igniting Creativity program. It was organized by the CCS Confederates Student Council and led by Pastor Jonathan M. Cal, while CCS students, faculty, and staff attended and Gab San Juan took the photos. My role was as a participant in the audience. The objective was to open the college's Founders Week, which celebrates Silliman University's 125th founding anniversary, with praise and prayer.",
+          "The new skill I learned was mindful communal centering, which means quieting my mind and worshipping with a large group of people instead of just going through the motions. I expected the opening to be mostly formal, since it was the start of a busy celebration. My expectation changed because the shared prayer and fellowship among my peers, professors, and staff felt sincere, and I was pleasantly surprised by how inspiring it was. The devotion expressed my values of gratitude, faith, and respect for the people who built our school.",
+          "This experience broadened my worldview by helping me see that university traditions rest on a spiritual foundation, and that being grateful for the past is part of moving forward with hope. I can apply this by starting big events and busy weeks with a moment of reflection. I plan to continue my involvement by attending campus devotions and college spiritual gatherings, and possibly volunteering to help the council with future devotions. The benefit of this activity is that it reminded the whole community why we celebrate. If I could do it again, I would arrive earlier to help welcome fellow students and stay for the fellowship afterward.",
+          "Because of this activity, I am more spiritually centered and more appreciative of our university's founding heritage."
         ],
         "id": 3
-      },
-      {
-        "title": "Morning Sunday Mass",
-        "organizer": "Our Mother of Perpetual Help Parish",
-        "date": "August 30, 2026 | 10:00AM",
-        "role": "1 - Participant",
-        "venue": "Our Mother of Perpetual Help Parish Church",
-        "photo": "church_4_photo.jpg",
-        "reflection": [
-          "On August 30, 2026, at 10:00 AM, I took part in the Morning Sunday Mass, held at Our Mother of Perpetual Help Parish Church, organized by Our Mother of Perpetual Help Parish. I joined the congregation as a participant, listening to the message and taking part in the prayers and hymns of the service.",
-          "Waking up early on a weekend was not easy, yet the morning service set a peaceful tone for the rest of my day. The message and the quiet moments of prayer helped me put my worries and responsibilities into perspective.",
-          "This reinforced for me how a regular worship habit keeps me centered. I plan to make Sunday worship a consistent part of my routine, even during busy school weeks. If I could do it again, I would bring a notebook to write down the insights that stood out to me.",
-          "Because of this activity, I am more centered, more patient, and more thankful for the time to pause and pray."
-        ],
-        "id": 4
       },
       {
         "title": "Galilean Fellowship",
         "organizer": "University Spiritual Life Council",
         "date": "September 22, 2026 | 6:00PM",
         "role": "1 - Participant",
-        "venue": "Silliman Campus Open Grounds",
-        "photo": "",
+        "venue": "Ausejo Hall room 106",
+        "photo": "church_5_photo.jpg",
         "reflection": [
-          "On September 22, 2026, at 6:00 PM, I took part in the Galilean Fellowship, held at Silliman Campus Open Grounds, organized by University Spiritual Life Council. I took part in the fellowship as a participant, joining the gathering for worship, songs, and sharing with other students.",
-          "I did not know what to expect from an open-grounds fellowship in the evening, but the relaxed setting made it easy to connect with people I had not met before. Singing and listening together made the gathering feel warm and welcoming.",
-          "The experience showed me that spiritual growth also happens through friendship and honest conversation. I plan to join more fellowships and to be more open to meeting new people. If I could do it again, I would arrive earlier so I could greet more of the people who came.",
-          "Because of this activity, I am more connected to my peers and more open to growing in faith alongside them."
+          "On Tuesday evening, September 22, 2026, at 6:00 PM, I attended the Galilean Fellowship in Room 106 of Ausejo Hall, which lasted roughly an hour to an hour and a half from what I could remember. It was organized by the University Spiritual Life Council, whose facilitators led the program, while my GE 10 classmates took part as fellow participants. My role was as a student participant in the name introductions, word-scramble games, and the GE 10 reflections based on biblical texts. The objective of the session was to explore gratitude and build fellowship with my classmates.",
+          "The new skill I learned was vulnerable peer communication, which is sharing honestly about my daily blessings with people I am still getting to know. I expected a formal Bible discussion, but my expectation changed as the lighthearted word-scramble games relaxed the room. I was surprised at how quickly a simple game opened up a meaningful conversation. The fellowship expressed my values of gratitude, honesty, and community.",
+          "This experience reshaped my understanding of how vital authentic companionship is to spiritual growth, because faith is easier to nurture when it is shared. I can apply this by checking in on my classmates and being open about my own gratitude. I plan to continue my involvement by joining future campus fellowships and small-group discussions organized by the University Spiritual Life Council. The benefit of this activity is that it connects spiritual reflection with real friendships. If I could do it again, I would arrive earlier to talk more personally with the other attendees before the program officially started.",
+          "Because of this activity, I am more connected to my peers and more encouraged to nurture my faith in community."
         ],
         "id": 5
       },
@@ -87,13 +70,13 @@ window.WPE_DATA = {
         "organizer": "Alma B. Ruiz/CHS 1",
         "date": "October 8, 2026 | 2:30PM",
         "role": "2 - Working Member - Choir",
-        "venue": "",
-        "photo": "",
+        "venue": "MAH 2-B",
+        "photo": "church_6_photo.jpg",
         "reflection": [
-          "On October 8, 2026, at 2:30 PM, I took part in the CHS 1 Closing Devotion, organized by Alma B. Ruiz/CHS 1. I sang with the choir to help lead the program through hymns and musical offerings during the closing devotion.",
-          "I expected the closing devotion to be a simple wrap-up, but singing as part of the choir made me feel the weight and joy of ending a shared journey with prayer. Blending my voice with the others reminded me that every member matters to the whole sound.",
-          "This experience reinforced my appreciation for music as a way of giving thanks and bringing people together. I plan to keep serving in music ministry and to bring the same cooperation into my group work in class. If I could do it again, I would rehearse the pieces a few more times so that I could sing with greater confidence.",
-          "Because of this activity, I am more thankful, more disciplined in service, and more appreciative of working together toward one purpose."
+          "On Thursday, October 8, 2026, at 2:30 PM, our CHS 1 class held its Closing Devotion in Room 2-B of MAH, which was followed by a short class social meetup after the devotion, the entire event itself which lasted about an hour and 30 minutes as per class schedule. It was organized by our CHS 1 teacher, Alma B. Ruiz, and it was a full worship service, not just a singing performance, with Psalms, prayers, scripture readings, short messages, and an offertory for the outreach programs of the Religion and Peace Department. Our teacher invited classmates who had not yet led a meditation to lead the worship. My role was as a working member of the choir, singing Psalm 23 with my classmates and helping coordinate the class social afterward. The objective was to celebrate the completion of the semester's CHS 1 program with worship and thanksgiving.",
+          "The new skill I developed was group musical synchronization, which means listening, timing, and blending with the rest of the choir. I expected a standard academic wrap-up, but my expectation changed as the devotion and the social turned out warm and festive. I was pleasantly surprised by how much I enjoyed seeing my classmates lead the prayers and messages. The activity expressed my values of gratitude, generosity, and teamwork, especially through the offertory and the shared snacks.",
+          "This experience changed my worldview by showing me that a class can become a community that worships, serves, and celebrates together. I can apply what I learned in CHS 1 by bringing its spiritual lessons into my daily student life and by supporting outreach efforts like those of the Religion and Peace Department. I plan to continue my involvement by staying in touch with my classmates and joining campus worship services and outreach activities. The benefit of this activity is a strong sense of accomplishment shared with my class. If I could do it again, I would coordinate the snack contributions earlier to ensure a smoother celebration.",
+          "Because of this activity, I am more grateful, reflective, and appreciative of my class community."
         ],
         "id": 6
       }
@@ -110,13 +93,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "June 17, 2026 | 1:00PM",
         "role": "1 - Participant",
-        "venue": "CCS Amphitheater",
+        "venue": "ATA Hall",
         "photo": "class_1_photo.jpg",
         "reflection": [
-          "On June 17, 2026, at 1:00 PM, I took part in the CCS General Assembly, held at CCS Amphitheater, organized by CCS Confederates Student Council. I was there as a participant and listened to the announcements, reminders, and goals shared by the student council and college officers.",
-          "I thought the assembly would just be a list of announcements, but it helped me understand how the college, its officers, and its students are connected. Hearing the plans for the semester made me see where I fit in and what is expected of me.",
-          "The experience made me more aware of the support available to CCS students and how to take part in college activities. I plan to follow council updates and to join activities that match my interests. If I could do it again, I would prepare questions ahead of time to ask during the open forum.",
-          "Because of this activity, I am more informed, more engaged with my college, and clearer about my goals this semester."
+          "On June 17, 2026, at 1:00 PM, I attended the CCS General Assembly at the ATA Hall, which lasted around two hours. It was organized by the CCS Confederates Student Council, whose officers presented their plans, visions, and events for the year, while students from different year levels filled the hall and Gab San Juan and Mark Polinar documented the event with photos. My role was as a participant in the audience. The objective was to understand the departmental guidelines, the upcoming events, and how student governance works in my first year.",
+          "The new skill I learned was active institutional listening, which means following a long presentation, picking out what applies to me, and remembering it. I expected a dry administrative meeting, but my expectation changed when the presentations were interactive and the turnout across year levels made the hall feel alive. I was surprised by how engaging and informative it turned out to be. The assembly expressed my values of responsibility and belonging, since being informed is the first step to taking part.",
+          "This experience broadened my worldview about student leadership by showing me that a community is built through proactive planning and a good turnout, not just by a few officers. I can apply this by following the council's announcements and showing up to its events. I plan to continue my involvement by attending future assemblies and supporting the council as a participant or as a volunteer. The benefit of this activity is that it gave me a clear picture of the year ahead. If I could do it again, I would speak up more and ask questions during the discussion.",
+          "Because of this activity, I am more informed, engaged, and clear about my goals for the semester."
         ],
         "id": 1
       },
@@ -125,13 +108,13 @@ window.WPE_DATA = {
         "organizer": "Silliman University",
         "date": "June 20, 2026 | 7:00AM",
         "role": "1 - Participant",
-        "venue": "SU Main Gymnasium",
+        "venue": "SU Gymnasium",
         "photo": "class_2_photo.jpg",
         "reflection": [
-          "On June 20, 2026, at 7:00 AM, I took part in the NSTP Orientation, held at SU Main Gymnasium, organized by Silliman University. I was there as a participant and listened as the program explained the components, requirements, and purpose of the National Service Training Program.",
-          "At first I treated the orientation as another requirement to finish, but the discussion showed me that NSTP is about service and responsibility to the community. Learning what the program asks of students helped me take it more seriously.",
-          "This reinforced my understanding that being a student also means contributing to society. I plan to take active part in the NSTP activities and to see them as chances to help others. If I could do it again, I would read the program guidelines beforehand so I could ask better questions.",
-          "Because of this activity, I am more aware of my civic duty and more ready to serve my community."
+          "On June 20, 2026, at 7:00 AM, I attended the NSTP Orientation at the Silliman University Gymnasium. It was a required orientation for all students enrolled in the National Service Training Program and lasted for a couple of hours, approximately two and a half. It was organized by Silliman University, whose NSTP officers and program staff presented the CWTS, LTS, and ROTC components to the incoming students. My role was as an attentive participant, and I signed up for ROTC afterwards. The objective was to understand the civic duties and training responsibilities of the program before choosing a component.",
+          "The new skill I learned was disciplined information processing, which means comparing several options, asking which one fits me, and deciding. I expected a boring checklist of rules, but my expectation changed when I saw how many community projects and service options were available. I was impressed by the range of choices. The orientation expressed my values of discipline, service, and responsibility to my country.",
+          "This experience influenced my worldview by showing me that national development starts with the participation of young people. I can apply this by taking my NSTP component seriously and treating it as service instead of a requirement. I plan to continue my involvement by committing fully to my ROTC training and joining related community service activities. The benefit of this activity is that I chose my component with a clear understanding of what it asks from me. If I could do it again, I would arrive earlier to get a better seat and read the component brochures more thoroughly.",
+          "Because of this activity, I am more aware of my civic duties, more socially conscious, and ready to serve."
         ],
         "id": 2
       },
@@ -143,10 +126,10 @@ window.WPE_DATA = {
         "venue": "Luce Auditorium",
         "photo": "class_3_photo.jpg",
         "reflection": [
-          "On July 15, 2026, at 9:00 AM, I took part in the University-Wide Convocation, held at Luce Auditorium, organized by Silliman University. I joined fellow students, faculty, and staff as a participant in the university-wide gathering to open the academic year.",
-          "Being in the same hall as so many members of the university made me feel part of something larger than my own classes. The messages on academic excellence and the Silliman spirit encouraged me to aim higher this semester.",
-          "The convocation reminded me that learning is a shared effort supported by teachers, staff, and fellow students. I plan to hold myself to a higher standard in my coursework and to take pride in representing the university. If I could do it again, I would sit with more classmates so we could discuss the talks afterward.",
-          "Because of this activity, I am more motivated, more proud to be a Sillimanian, and more committed to doing my best."
+          "On July 15, 2026, at 9:00 AM, I attended the University-Wide Convocation at the Luce Auditorium, which lasted around one and a half hours, ending at roughly 10:30 AM. It was organized by Silliman University as a mandatory gathering at the start of the semester, where the University President delivered the keynote address on institutional milestones, campus upgrades, and the university's response to the wider higher-education environment, while faculty, staff, and students attended. My role was as a participant in the audience. The objective was to receive the university's updates and align myself with the campus community.",
+          "The new skill I learned was reflective academic appreciation, which means listening to an address as more than information and asking what it means for me as a student. I expected a routine formal program, but my expectation changed when the message reminded me that the improvements around campus are part of a bigger mission. I was surprised at how connected I felt to a university-wide event with so many people in one room. The convocation expressed my values of integrity, loyalty, and gratitude.",
+          "This experience broadened my perspective on the collective mission of higher education, because I now see my studies as a part of that mission and not only as personal goals. I can apply this by embodying the university's values in how I study and treat others. I plan to continue my involvement by attending future university-wide assemblies and following the university's announcements. The benefit of this activity is a stronger sense of belonging to Silliman. If I could do it again, I would take detailed notes on the key addresses so I could reflect on them later.",
+          "Because of this activity, I am more inspired, focused, and aligned with the university's values."
         ],
         "id": 3
       },
@@ -155,43 +138,43 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "July 22, 2026 | 9:00AM",
         "role": "1 - Participant",
-        "venue": "CCS Lecture Hall 1",
+        "venue": "ATA Hall",
         "photo": "class_4_photo.jpg",
         "reflection": [
-          "On July 22, 2026, at 9:00 AM, I took part in the Freshman, Shiftees & Transferees Orientation, held at CCS Lecture Hall 1, organized by CCS Confederates Student Council. I was there as a participant and learned about the college's processes, resources, and support for new, shifting, and transferring students.",
-          "I came in feeling unsure about adjusting to the college, and the orientation helped ease that worry by showing me where to go for help. Hearing the experiences of other students who were also adjusting made me feel less alone.",
-          "The experience taught me that adapting to a new environment is easier when I know the support systems around me. I plan to approach my professors and advisers early whenever I have concerns. If I could do it again, I would bring a list of my questions so I could clear them up on the spot.",
-          "Because of this activity, I am more confident in adjusting to college life and more willing to ask for help."
+          "On July 22, 2026, at 9:00 AM, I attended the CCS Freshies, Shiftees, and Transferees Orientation at the ATA Hall, which lasted about two to three hours if I can remember. It was organized by the CCS Confederates Student Council together with the college, and the CCS faculty and administrative staff were introduced to us and explained the university and college policies. My role was as an attentive participant among the new students. The objective was to understand the curriculum, the retention guidelines, and the support systems of the college.",
+          "The new skill I learned was strategic academic navigation, which means knowing the rules, the people, and the offices that can help me before problems start. I expected a long list of policies that would make me worry about college, but my expectation changed when I saw how many people and support systems are in place for us. I was reassured, and my worry about the difficulty of college turned into confidence. The orientation expressed my values of responsibility and humility in asking for help.",
+          "This experience helped shape my worldview about college as something I do with support from a community, not alone. I can apply this by consulting my advisers and instructors early and by following the college's guidelines. I plan to continue my involvement by using the student council's resources and attending the college's other orientations and assemblies. The benefit of this activity is that I started the semester knowing who to ask. If I could do it again, I would ask more specific questions about the IT elective guidelines.",
+          "Because of this activity, I am more confident in navigating my academic journey and the support systems around me."
         ],
         "id": 4
       },
       {
         "title": "On-Probation Orientation",
-        "organizer": "CCS Confederates Student Council",
-        "date": "July 22, 2026 | 2:00PM",
+        "organizer": "CCS Guidance Office",
+        "date": "July 22, 2026 | 1:00PM",
         "role": "1 - Participant",
-        "venue": "CCS Audio-Visual Room",
+        "venue": "ATA Hall",
         "photo": "class_5_photo.jpg",
         "reflection": [
-          "On July 22, 2026, at 2:00 PM, I took part in the On-Probation Orientation, held at CCS Audio-Visual Room, organized by CCS Confederates Student Council. I was there as a participant and listened to the policies, expectations, and academic support options explained for students on probation.",
-          "I expected the session to feel discouraging, but it focused on how students can recover and improve, which gave me hope. Understanding the requirements clearly helped me see that a setback is not the end of my academic journey.",
-          "This reinforced the importance of perseverance, good study habits, and seeking help early. I plan to build a weekly study schedule and to consult my instructors regularly. If I could do it again, I would take more detailed notes so I could review the guidelines later.",
-          "Because of this activity, I am more determined, more focused on my studies, and more hopeful about improving."
+          "On July 22, 2026, at 1:00 PM, I attended the Special CCS Guidance Office Orientation for on-probation students at the ATA Hall, which lasted about one and a half to two hours. It was organized by the CCS Guidance Office, whose staff explained the support, resources, and guidance available to students on probation. My role was as a participant, since I was on probation when I enrolled. The objective was to learn how to improve my academic standing and continue my academic journey in the college.",
+          "The new skill I learned was academic recovery planning, which means setting a study schedule, tracking my progress, and knowing when to consult my instructors. I expected a discouraging lecture, but my expectation changed because the message was that probation is not the end of my story and that I am never alone. I was surprised at how hopeful and supportive the guidance felt. The orientation expressed my values of accountability, perseverance, and humility.",
+          "This experience influenced my worldview by showing me that setbacks can be managed with a strategy and the right support. I can apply this by regularly tracking my study schedule and consulting my instructors when I struggle. I plan to continue my involvement by following up with the CCS Guidance Office and attending its other sessions. The benefit of this activity is that I have a clear plan and a place to ask for help. If I could do it again, I would take more detailed notes on the exact criteria for lifting probation.",
+          "Because of this activity, I am more diligent, accountable, and focused on improving my academic performance."
         ],
         "id": 5
       },
       {
-        "title": "University-Wide Freshmen Orientation",
-        "organizer": "Silliman University",
+        "title": "University-Wide Orientation for Freshies and New Students",
+        "organizer": "Silliman University - Office of Student Services, Guidance and Testing Division",
         "date": "July 29, 2026 | 9:00AM",
         "role": "1 - Participant",
-        "venue": "SU Gymnasium",
+        "venue": "Luce Auditorium",
         "photo": "class_6_photo.jpg",
         "reflection": [
-          "On July 29, 2026, at 9:00 AM, I took part in the University-Wide Freshmen Orientation, held at SU Gymnasium, organized by Silliman University. I joined the incoming freshmen as a participant in the main orientation program covering campus life, services, and traditions.",
-          "The program was larger than I expected, and it gave me a clear picture of the university's culture and the opportunities open to students. Seeing so many new faces at the same stage as me made me feel welcome.",
-          "The orientation helped me understand what is expected of a Sillimanian and how to make the most of the resources on campus. I plan to join campus organizations and to use the services I learned about. If I could do it again, I would introduce myself to more of the students seated near me.",
-          "Because of this activity, I am more comfortable on campus and more excited about my years in the university."
+          "On July 29, 2026, at 9:00 AM, I attended the University-Wide Orientation for Freshies and New Students for A.Y. 2026-2027 at the Claire Isabel McGill Luce Auditorium, a session that lasted about two hours and ended at 11:00 AM, before lunchtime. The orientation was originally scheduled for July 8 but was delayed to July 29. It was organized by the Silliman University Office of Student Services through its Guidance and Testing Division, and the morning session was for the students of CCS, COPVA, SPAG, CBA, COE, and IEMS, with university officials presenting and fellow freshmen attending. My role was as a participant. The objective was to learn about the campus facilities, safety protocols, and student life policies.",
+          "The new skill I learned was resource mapping, which means identifying which office or service to go to for each kind of need. I expected a simple welcome program, but my expectation changed when I saw how detailed and wide the university's services are. I was surprised at the extent of the student support network that I could use. The orientation expressed my values of responsibility, curiosity, and a sense of belonging to the university.",
+          "This experience broadened my perspective on using campus services for a holistic student life and not only for classes. I can apply this by visiting the facilities and the library early instead of waiting for a problem. I plan to continue my involvement by attending the university's activities for new students and helping other freshmen find their way. The benefit of this activity is that I know my university's rules and resources from the start. If I could do it again, I would introduce myself to more of the students sitting around me during the briefings.",
+          "Because of this activity, I am more resourceful, integrated, and familiar with my university environment."
         ],
         "id": 6
       },
@@ -200,13 +183,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 24, 2026 | 2:00PM",
         "role": "1 - Participant",
-        "venue": "Silliman Main Library",
+        "venue": "ATA Hall",
         "photo": "class_7_photo.jpg",
         "reflection": [
-          "On August 24, 2026, at 2:00 PM, I took part in the Book Pursuit: An Amazing Book Story Race, held at Silliman Main Library, organized by CCS Confederates Student Council. I was involved as a participant and worked with my team to solve clues and find books around the library.",
-          "I thought the race would be only a game, but it pushed me to learn how the library is organized and how to search for information efficiently. Working with my teammates taught me to share tasks and think quickly together.",
-          "The experience showed me that the library has far more to offer than I had realized. I plan to visit it more often for my coursework and personal reading. If I could do it again, I would plan our strategy with my team before the race began to save time.",
-          "Because of this activity, I am more resourceful, a better team player, and more appreciative of the library."
+          "On August 24, 2026, from 2:00 PM to 5:00 PM (about three hours), I joined 'Book Pursuit: An Amazing Book Story Race,' a required Founders Week activity at the ATA Hall organized by the CCS Confederates Student Council. The student council officers ran the game and gave the clues, and my teammates and I worked together as a team. My role was as a competitive team player who solved the clues, including film-based riddles around campus, and our team finished in fourth place. The objective was to race to the final page by solving literary clues, dividing the challenges, and working as a team.",
+          "The new skill I developed was rapid collaborative problem-solving, where each member took a clue, shared what we found, and decided quickly. I expected a simple game of trivia, but my expectation changed as the physical and mental pace of the puzzles turned it into a real race. I was surprised at how much running and thinking it needed. The game expressed my values of teamwork, perseverance, and humility in accepting fourth place.",
+          "This experience made me realize that recalling facts and solving riddles is similar to the logic I use in coding projects, because both need breaking a problem into smaller parts. I can apply this by dividing tasks with my teammates on group projects. I plan to continue my involvement by joining future student council recreational events and academic games. The benefit of this activity is that it made learning fun and brought our group closer. If I could do it again, I would plan our team's movement routes and role assignments beforehand.",
+          "Because of this activity, I am happier, more mentally stimulated, and more confident working with a team under time pressure."
         ],
         "id": 7
       },
@@ -215,13 +198,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 25, 2026 | 9:00AM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "CCS Computer Laboratory 1",
+        "venue": "ATA Hall",
         "photo": "class_8_photo.jpg",
         "reflection": [
-          "On August 25, 2026, at 9:00 AM, I took part in the Miller Industry Lecture: Agentic Coding Lecture, held at CCS Computer Laboratory 1, organized by CCS Confederates Student Council. I served on the working committee in charge of attendance, helping check in attendees and keep the lecture orderly.",
-          "I expected the task to be routine, yet it let me listen to the talk while seeing how much coordination goes into a successful event. The discussion on agentic coding made me curious about where software development is heading.",
-          "This experience reinforced the value of being reliable behind the scenes and of staying curious about new technology. I plan to explore agentic coding tools in my own projects and to volunteer for more committees. If I could do it again, I would set up the attendance process earlier to avoid delays at the entrance.",
-          "Because of this activity, I am more dependable in service and more eager to keep up with modern software development."
+          "On August 25, 2026, from 9:00 AM to about 11:30 AM, I helped at the lecture of the Miller Solutions Development Inc. Industry Lecture Series, 'From AutoComplete to Agents: A Day on Agentic Engineering,' at the ATA Hall. It was organized by the CCS Confederates Student Council, and the guest speaker was Sean Erick C. Ramones, a software engineer and subject matter expert, while the council officers ran the program. My role was as a working committee member in charge of attendance, handling the time-ins and time-outs of the students. The objective was to keep the event running smoothly while learning how AI is changing coding workflows.",
+          "The new skill I learned was efficient crowd logistics tracking, and I also learned the basic ideas behind AI agents in software engineering. I expected to be busy with the attendance sheet and to miss most of the talk, but my expectation changed because I could listen between the arrivals. I was surprised at how fast automated agent workflows are changing software engineering. The activity expressed my values of responsibility and service, since the event only works if someone takes care of the details.",
+          "This experience expanded my worldview about the direction of professional software development, where programmers will work alongside AI agents. I can apply this by learning to use AI coding tools responsibly while still understanding the code myself. I plan to continue my involvement by volunteering for technical lecture committees and exploring AI coding tools on my own. The benefit of this activity is that I learned about the industry and about event management at the same time. If I could do it again, I would set up a digital pre-registration sheet to speed up the entry of attendees.",
+          "Because of this activity, I am more forward-looking in technology and more appreciative of emerging industry innovations."
         ],
         "id": 8
       },
@@ -230,43 +213,43 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 25, 2026 | 1:30PM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "CCS Computer Laboratory 2",
+        "venue": "ATA Hall",
         "photo": "class_9_photo.jpg",
         "reflection": [
-          "On August 25, 2026, at 1:30 PM, I took part in the Miller Industry Lecture: Coding Workshop, held at CCS Computer Laboratory 2, organized by CCS Confederates Student Council. I assisted the attendance committee by checking in participants and helping the workshop run smoothly.",
-          "I expected to spend most of the time at the registration table, but I was also able to observe the hands-on exercises and see how other students approached them. Watching them solve problems in real time showed me the value of practice.",
-          "The workshop strengthened my belief that technical skills grow through doing, not just listening. I plan to set aside regular time to code on my own and to join similar workshops in the future. If I could do it again, I would take part in the exercises after finishing my committee duties.",
-          "Because of this activity, I am more motivated to practice my skills and more appreciative of the work behind hosting an event."
+          "On August 25, 2026, from 1:30 PM to 5:00 PM (about three and a half hours), I served at the afternoon workshop of the Miller Solutions Development Inc. Industry Lecture Series at the ATA Hall, which continued the morning talk of the guest speaker, Sean Erick C. Ramones. It was organized by the CCS Confederates Student Council, and participants were asked to bring their laptops. My role was as a working committee member handling attendance, monitoring the time-ins of the participants who practiced streamlining work with AI agents. The objective was to support the workshop's logistics while learning from the demonstrations.",
+          "The new skill I developed was doing administrative monitoring and technical observation at the same time. I expected to follow the exercises like the other participants, but my expectation changed because I forgot my laptop, so I could only watch the live coding. I was surprised that watching it was still valuable, since it sparked several programming ideas I want to try. The workshop expressed my values of diligence and humility in learning from professionals.",
+          "This experience reinforced my dedication to integrating AI into my programming workflow, because I saw how it can speed up work when used well. I can apply this by practicing hands-on coding with AI tools in my own projects. I plan to continue my involvement by attending advanced technical workshops and volunteering for the committee again. The benefit of this activity is that it gave me practical examples beyond the lecture. If I could do it again, I would bring my own laptop so I could follow along with the exercises.",
+          "Because of this activity, I am more skilled, more practical, and more interested in advanced AI software development."
         ],
         "id": 9
       },
       {
-        "title": "Batch 2017 Balik Talent Lecture",
+        "title": "Balik Talent 2026 Lecture: Addressing the AI-lephant in the Room",
         "organizer": "CCS Confederates Student Council",
         "date": "August 26, 2026 | 2:00PM",
         "role": "1 - Participant",
-        "venue": "CCS Audio-Visual Room",
+        "venue": "ATA Hall",
         "photo": "class_10_photo.jpg",
         "reflection": [
-          "On August 26, 2026, at 2:00 PM, I took part in the Batch 2017 Balik Talent Lecture, held at CCS Audio-Visual Room, organized by CCS Confederates Student Council. I was there as a participant and listened as a returning alumni batch shared their careers and lessons from the industry.",
-          "I went in expecting a typical talk, but hearing graduates describe their real challenges and turning points made my own career path feel more possible. Their stories showed that success often comes from persistence and willingness to learn.",
-          "The session helped me connect what I study now to the work I may do after graduation. I plan to build a stronger portfolio and to reach out to alumni for advice. If I could do it again, I would prepare questions for the speakers and ask them directly.",
-          "Because of this activity, I am more motivated about my future career and more aware of the value of the alumni network."
+          "On August 26, 2026, from 2:00 PM to 5:00 PM (about three hours), I attended the Balik Talent 2026 Lecture at the ATA Hall, a required activity organized by the CCS Confederates Student Council. The guest speaker was Ms. Alyssa L. Palencia, CEO of Miller Solutions Development Inc., a BSIT 2018 alumna and the 71st Miss Silliman, who spoke on 'Addressing the AI-lephant in the Room: Artificial Intelligence and its Impact on Tech.' My role was as a first-year BSIT participant in the audience. The objective was to gain real-world insights about the tech industry and career advice from an alumna.",
+          "The new skill I learned was professional career path mapping, which means looking at where a graduate can go and what to build now to get there. I expected a talk that would make me anxious about AI taking over our jobs, but my expectation changed when the speaker explained that AI will change jobs instead of simply eliminating them. I was relieved and surprised at the hopeful message. The lecture expressed my values of lifelong learning and perseverance.",
+          "This experience broadened my worldview about IT careers, because I now see AI as a tool I must learn to work with. I can apply this by building a stronger portfolio and learning skills that AI cannot easily replace, like problem solving and communication. I plan to continue my involvement by networking with alumni and attending future Balik Talent lectures. The benefit of this activity is that it connected my studies to the real industry and gave me a clearer career direction. If I could do it again, I would prepare specific questions about the entry requirements for the software industry.",
+          "Because of this activity, I am more goal-oriented, inspired, and focused on my future career path."
         ],
         "id": 10
       },
       {
-        "title": "Mental Health Toolkit",
+        "title": "Mental Health Caravan: Building Your Mental Health Toolkit",
         "organizer": "College of Engineering and Design",
         "date": "September 16, 2026 | 2:00PM",
         "role": "1 - Participant",
-        "venue": "CED Assembly Hall",
+        "venue": "Luce Auditorium",
         "photo": "class_11_photo.jpg",
         "reflection": [
-          "On September 16, 2026, at 2:00 PM, I took part in the Mental Health Toolkit, held at CED Assembly Hall, organized by College of Engineering and Design. I was there as a participant and learned practical tools for managing stress, caring for my mental well-being, and seeking support.",
-          "I walked in thinking that stress was just something every student had to endure, but the seminar showed me that there are healthy ways to cope. The simple techniques shared made self-care feel realistic even with a heavy workload.",
-          "This experience reminded me that taking care of my mind is as important as finishing my tasks. I plan to build short breaks, rest, and conversations with trusted people into my weekly routine. If I could do it again, I would invite my friends so we could support each other afterward.",
-          "Because of this activity, I am more mindful of my well-being and more willing to ask for support when I need it."
+          "On September 16, 2026, from 2:00 PM to 4:00 PM, I attended the Mental Health Caravan: Building Your Mental Health Toolkit at the Claire Isabel McGill Luce Auditorium. It was organized by the College of Engineering and Design, which invited all first-year students and required them to attend, and the speaker was Dr. Stephanie D. Miaco, a psychiatrist. My role was as a participant in the audience, together with the other first-year students. The objective was to promote mental health awareness and learn practical tools for self-care, resilience, and seeking support.",
+          "The new skill I learned was stress-boundary setting, which means taking breaks, saying no when I am overloaded, and talking to someone I trust. I expected a general lecture about mental health that I had heard before, but my expectation changed when the reminders, like practicing self-care every day and that it is okay to not be okay, were practical enough to use right away. I was surprised at how effective simple mindfulness techniques can be during a heavy workload. The seminar expressed my values of compassion, honesty, and kindness to myself and to others.",
+          "This experience highlighted that mental well-being is the foundation of success in school, not something that competes with it. I can apply this by taking short breaks during study sessions and by seeking help when I need it. I plan to continue my involvement by using these strategies during exam weeks and by supporting my classmates when they are struggling. The benefit of this activity is that it gave me tools I can use for the rest of college. If I could do it again, I would invite my friends so that we could attend together and support each other.",
+          "Because of this activity, I am more mindful, balanced, and equipped to handle academic stress."
         ],
         "id": 11
       }
@@ -283,13 +266,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "September 30, 2026 | 7:30AM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "SU Ballfield / Sports Complex",
+        "venue": "SU Gymnasium",
         "photo": "court_1_photo.jpg",
         "reflection": [
-          "On September 30, 2026, at 7:30 AM, I took part in the Opening of CCS sportsfest, held at SU Ballfield / Sports Complex, organized by CCS Confederates Student Council. I served on the working committee and helped verify student attendance during the opening ceremony.",
-          "I expected the work to be limited to a checklist, but being present at the opening let me feel the excitement of the whole college coming together. Watching the athletes and the crowd showed me what the sportsfest meant to everyone.",
-          "The experience taught me that behind every celebration are people who quietly make sure things run properly. I plan to keep volunteering for committees and to encourage sportsmanship among my classmates. If I could do it again, I would arrive earlier to organize the attendance sheets before the crowd arrived.",
-          "Because of this activity, I am more responsible, more appreciative of teamwork, and more enthusiastic about school spirit."
+          "On September 30, 2026, the Opening of the CCS Sportsfest at the SU Gymnasium was scheduled for 7:30 AM but actually started at 8:00 AM because of technical difficulties, and the opening program itself lasted about 30 minutes. It was organized by the CCS Confederates Student Council, with the council officers running the program and the participants, players, and students attending. My role was as a working committee member on attendance, handling the time-in and time-out of the attendees. The objective was to track participants accurately even when the schedule shifted.",
+          "The new skill I developed was efficient digital QR tracking, together with staying calm when plans change. I expected only a quick morning check-in, but my expectation changed when the delay made the participants arrive in waves and I had to manage the late arrivals. I was caught slightly off guard, but it taught me adaptability under pressure. The activity expressed my values of responsibility and service to my department.",
+          "This experience gave me insight into how much behind-the-scenes work goes into a sports event, and it changed my view of sportsfests as events that depend on volunteers and not only on athletes. I can apply this by preparing for delays in any group project. I plan to continue my involvement by volunteering for the sports committee roles throughout the Sportsfest. The benefit of this activity is that it helped the event run in an orderly manner. If I could do it again, I would set up backup registration queues to handle technical delays faster.",
+          "Because of this activity, I am more attentive to logistical details, more adaptable to unexpected changes, and more committed to supporting my department's student community."
         ],
         "id": 1
       },
@@ -298,13 +281,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "September 30, 2026 | 8:00AM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "SU Gymnasium Courts",
+        "venue": "SU Gymnasium",
         "photo": "court_2_photo.jpg",
         "reflection": [
-          "On September 30, 2026, at 8:00 AM, I took part in the Badminton Game, held at SU Gymnasium Courts, organized by CCS Confederates Student Council. I assisted the working committee by recording attendance and keeping track of the match schedule.",
-          "I thought the job would be simple, but keeping matches on time required constant attention and coordination with the players and officials. It made me appreciate how much discipline both the athletes and organizers need.",
-          "This reinforced my belief that discipline and good organization are as important as talent in sports. I plan to apply the same habits of punctuality and focus in my schoolwork. If I could do it again, I would prepare a clearer schedule board so players could easily see their match times.",
-          "Because of this activity, I am more disciplined, more organized, and more respectful of the effort that goes into running games."
+          "On September 30, 2026, at the SU Gymnasium, I helped at the Badminton Game of the CCS Sportsfest, which was scheduled at 8:00 AM, but because the opening program ran 30 minutes late due to technical difficulties, it actually started at roughly 8:30 AM and lasted around three to four hours. It was organized by the CCS Confederates Student Council, with the council officers running the games and the players and attendees filling the venue. My role was as a working committee member who handled the time-in attendance of the players and attendees. The objective was to support the event's organizers by keeping the attendance record complete.",
+          "The new skill I learned was match-flow timekeeping, which means knowing when each group arrives and when games move on to the next one. I expected to be stuck at the sign-in table and to enjoy little of the match, since my duties were limited to the time-ins. My expectation changed when I watched my own department's team play and felt a distinct sense of pride. I was surprised at how much genuine effort the players showed on court. The activity expressed my values of loyalty to my department and appreciation for hard work.",
+          "This experience showed me the need to step away from academics for physical wellness, and that taking a brief break to support sports is worthwhile. I can apply this by setting time for exercise even during busy weeks. I plan to continue my involvement by supporting my department's teams and investing in my own fitness. The benefit of this activity is that it balanced a week of school with an energetic event. If I could do it again, I would create a visible schedule board for the players so they would not need to ask at the sign-in table.",
+          "Because of this activity, I am more encouraging of my peers, more supportive of our department's team, and more mindful of the importance of physical fitness."
         ],
         "id": 2
       },
@@ -313,13 +296,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "September 30, 2026 | 1:30PM",
         "role": "3 - Assistant Organizer - Game Facilitator",
-        "venue": "SU Outdoor Volleyball Courts",
+        "venue": "SU Alaska Courts",
         "photo": "court_3_photo.jpg",
         "reflection": [
-          "On September 30, 2026, at 1:30 PM, I took part in the First Volleyball Meet, held at SU Outdoor Volleyball Courts, organized by CCS Confederates Student Council. I served as an assistant organizer and game facilitator, helping manage the teams, keep the match order, and make sure the rules were followed.",
-          "I expected to take simple instructions, yet I found myself making quick decisions and helping resolve small issues on the court. It was a challenge, but guiding the game gave me confidence in my ability to lead.",
-          "The experience taught me that good leadership means staying calm, being fair, and communicating clearly. I plan to take on more leadership roles in future events and to continue developing these skills. If I could do it again, I would review the rules and the tournament flow more carefully beforehand.",
-          "Because of this activity, I am more confident as a leader and more aware of the responsibility that comes with facilitating others."
+          "On September 30, 2026, from 1:30 PM to 5:00 PM (about three and a half hours), I served as a game facilitator at the SU Alaska Courts for the First Volleyball Meet of the CCS Sportsfest. It was organized by the CCS Confederates Student Council, with the main referees controlling the matches and the players competing on the court. My role was as an assistant organizer and line judge, standing at the corner of the court to signal whether the ball landed in or out whenever the play was unclear. The objective was to maintain fair play and order during the matches.",
+          "The new skill I acquired was instant boundary judgment, which means watching the ball and the line at the same time and making a call without hesitating. I expected the role to be easy, but my expectation changed because my nerves made it hard at first, and I realized how important split-second decisions are. I was surprised by how much pressure there is when players and spectators are waiting for my signal. The activity expressed my values of fairness, honesty, and accountability.",
+          "This experience taught me lessons in neutrality and accountability, and it showed me that structured rules are as important as athletic talent. I can apply this by being fair and focused when I handle responsibilities in group work and technical projects. I plan to continue my involvement by taking on future event facilitation roles in the council's sports events. The benefit of this activity is that it helped the games stay orderly and gave me leadership practice. If I could do it again, I would review the tournament's rule interpretations more thoroughly beforehand.",
+          "Because of this activity, I am more observant, more responsible, and more confident in ensuring fairness and order."
         ],
         "id": 3
       },
@@ -328,13 +311,13 @@ window.WPE_DATA = {
         "organizer": "SU ROTC",
         "date": "October 3, 2026 | 6:00AM",
         "role": "1 - Participant",
-        "venue": "ROTC Parade Grounds",
+        "venue": "SU Cimafranca Ballfield",
         "photo": "court_4_photo.jpg",
         "reflection": [
-          "On October 3, 2026, at 6:00 AM, I took part in the ROTC Sportsfest, held at ROTC Parade Grounds, organized by SU ROTC. I was involved as a participant in the athletic activities and joined my fellow students in the games.",
-          "I was tired from the early start, but the energy of the group quickly lifted my spirits. Playing and cheering with others made the activity less about winning and more about enjoying the effort together.",
-          "The experience reminded me of the value of physical fitness and the friendships built through shared challenges. I plan to exercise more regularly and to join similar activities in the future. If I could do it again, I would warm up and prepare better so that I could perform with more stamina.",
-          "Because of this activity, I am healthier in mindset, closer to my peers, and more motivated to stay active."
+          "On October 3, 2026, at 6:00 AM, I joined the ROTC Sportsfest at the SU Cimafranca Ballfield for our final semester session, which lasted for 6 hours in the morning until 12 noon. It was organized by SU ROTC, with my unit members taking part together and the commanding officers supervising. My role was as a participant who watched most of the games and competed in a cooperative team-walking board challenge, where our company placed fastest. The objective was to build unit discipline and camaraderie through games.",
+          "The new skill I learned was synchronized team coordination, because the board challenge only worked when everyone moved in the same rhythm. I expected a casual morning of games, but my expectation changed because the early start and the strict rule against lateness made it a lesson in military punctuality. I was surprised at how much a simple game revealed about discipline and trust. The sportsfest expressed my values of discipline, cooperation, and respect for my unit.",
+          "This experience showed me that physical activities bond people together and build unit cohesion, and it changed how I see games as a tool for training. I can apply the lessons of teamwork to group college projects and my daily routines. I plan to continue my involvement by participating in ROTC activities and encouraging my unit mates. The benefit of this activity is that it built friendships while keeping us active. If I could do it again, I would complete a proper physical warm-up beforehand to prevent early fatigue.",
+          "Because of this activity, I am more determined to work well with others, more disciplined, and more cooperative."
         ],
         "id": 4
       },
@@ -343,13 +326,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "October 3, 2026 | 1:00PM",
         "role": "1 - Spectator",
-        "venue": "CCS Quadrangle",
+        "venue": "SU Cimafranca Ballfield",
         "photo": "court_5_photo.jpg",
         "reflection": [
-          "On October 3, 2026, at 1:00 PM, I took part in the Larong Pinoy, held at CCS Quadrangle, organized by CCS Confederates Student Council. I was there as a spectator and supported the participants as they played the traditional games.",
-          "I thought the games would only be nostalgic fun, but watching them made me realize how much creativity and skill is in the Filipino games we grew up with. The laughter and cheering made the whole event lively.",
-          "This reinforced my appreciation for the games that are part of our culture and the need to keep them alive. I plan to share these games with younger relatives so they do not disappear. If I could do it again, I would join in and play instead of only watching.",
-          "Because of this activity, I am more proud of Filipino culture and more eager to preserve its traditions."
+          "On October 3, 2026, from 1:00 PM to 2:30 PM (about an hour and a half), I attended Larong Pinoy at the SU Cimafranca Ballfield, the first event on the council's schedule that day. It was organized by the CCS Confederates Student Council, with the council officers and event facilitators running the games and my fellow students taking part. My role was as a spectator who also joined the sack race informally. The objective was to appreciate and enjoy traditional Filipino games.",
+          "The new skill I developed was cultural appreciation through heritage sports, learning the rules and the spirit of games that Filipinos have played for generations. I expected to just watch from the side, but my expectation changed when I joined the sack race, and since there was no pressure to win, it was simply fun. I was surprised at how tiring a simple sack race can be. The games expressed my values of joy, camaraderie, and pride in Filipino culture.",
+          "This experience offered me insight into how traditional games can be a way to relax and bring a department together without expensive equipment. I can apply this by joining simple group activities when I feel stressed. I plan to continue my involvement by helping organize traditional recreational events for the students. The benefit of this activity is that it gave me a break from schoolwork and a chance to bond with my peers. If I could do it again, I would formally join all the race brackets instead of shifting to spectator mode.",
+          "Because of this activity, I am more appreciative of cultural activities and traditional games."
         ],
         "id": 5
       },
@@ -358,13 +341,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "October 3, 2026 | 2:30PM",
         "role": "1 - Spectator",
-        "venue": "SU Volleyball Courts",
+        "venue": "SU Alaska Courts",
         "photo": "court_6_photo.jpg",
         "reflection": [
-          "On October 3, 2026, at 2:30 PM, I took part in the Second Volleyball Meet, held at SU Volleyball Courts, organized by CCS Confederates Student Council. I was there as a spectator and cheered for our department's team throughout the match.",
-          "I went to simply watch, but the excitement of each point made me feel part of the team even from the sidelines. Seeing the players support one another after every play showed me what real teamwork looks like.",
-          "The experience taught me that supporters matter, because encouragement can lift a team's spirit. I plan to continue showing up for my department's events and to cheer positively and respectfully. If I could do it again, I would bring classmates and make a banner to show our support.",
-          "Because of this activity, I am more team-spirited and more appreciative of the value of encouragement."
+          "On October 3, 2026, from 2:30 PM to 3:30 PM (about an hour), I attended the Second Volleyball Meet at the SU Alaska Courts, organized by the CCS Confederates Student Council. The competing departmental teams played the matches, while the referees and council facilitators managed the games and the fans filled the sidelines. My role was as a spectator and fan who cheered for the department teams. The objective was to support the players and boost the students' morale.",
+          "The new skill I learned was active peer encouragement, which means cheering in a way that actually lifts the players' energy. I expected a relaxed afternoon of watching, but my expectation changed when I saw how competitive the matches were. I was surprised at how the level of competition energized the whole crowd. The event expressed my values of loyalty, friendship, and school spirit.",
+          "This experience proved to me that collective morale-boosting is vital for school spirit, and I realized that the crowd is part of the game. I can apply this by supporting my classmates in their own events and not only in sports. I plan to continue my involvement by showing up to cheer for my peers in future campus sports and by possibly volunteering to help with the games. The benefit of this activity is that it strengthened my ties with my department. If I could do it again, I would bring banners to increase the team's support visibility.",
+          "Because of this activity, I am a better fan and a more supportive friend."
         ],
         "id": 6
       },
@@ -373,13 +356,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "October 3, 2026 | 4:00PM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "SU Main Gymnasium",
+        "venue": "SU Alaska Courts",
         "photo": "court_7_photo.jpg",
         "reflection": [
-          "On October 3, 2026, at 4:00 PM, I took part in the Closing of CCS sportsfest, held at SU Main Gymnasium, organized by CCS Confederates Student Council. I served on the working committee and verified attendance for students during the closing ceremony.",
-          "I expected the closing to be a quick formality, but being part of it let me see the whole event come to a close and recognize the efforts of the athletes and organizers. It felt rewarding to have contributed to the success of the sportsfest.",
-          "This experience reinforced the importance of sportsmanship, gratitude, and finishing what we start. I plan to keep contributing to college events and to carry the same sense of responsibility into my other commitments. If I could do it again, I would coordinate with the other committees ahead of time to make the process even smoother.",
-          "Because of this activity, I am more grateful, more reliable, and more proud of what our college can achieve together."
+          "On October 3, 2026, from 4:00 PM to 4:30 PM, I served at the Awarding and Closing of the CCS Sportsfest at the alaska courts, which lasted about 30 minutes. It was organized by the CCS Confederates Student Council, with the student organizers leading the awarding of the winners and the athletes and attendees gathering for the ceremony. My role was as a working committee member handling the time-in attendance for the closing ceremonies. The objective was to ensure an orderly closing ceremony.",
+          "The new skill I developed was final event tracking, which means finishing the attendance record cleanly while the rest of the program moves on. I expected the closing to be a quick and routine task, but my expectation changed when the successful wrap-up of the sportsfest gave me a sense of completion and fulfillment. I was surprised at how rewarding it was to see our committee's hard work end in a smooth program. The activity expressed my values of perseverance and teamwork.",
+          "This experience gave me insight into the importance of seeing organizational events through to the end, including the small tasks no one notices. I can apply this thoroughness to my software development projects, since finishing tasks is just as critical as starting them. I plan to continue my involvement by volunteering for future council events from the opening to the closing. The benefit of this activity is that it taught me that an event succeeds because of many small contributions. If I could do it again, I would coordinate with the logistics team earlier for a seamless closing.",
+          "Because of this activity, I am more committed and more cooperative in accomplishing tasks until the very end."
         ],
         "id": 7
       }
@@ -396,13 +379,13 @@ window.WPE_DATA = {
         "organizer": "Silliman University",
         "date": "June 11, 2026 | 4:00PM",
         "role": "1 - Participant",
-        "venue": "Silliman Campus Portal Grounds",
+        "venue": "Ravello Field to SU amphitheater",
         "photo": "culture_1_photo.jpg",
         "reflection": [
-          "On June 11, 2026, at 4:00 PM, I took part in the SU Freshie Walk 2026, held at Silliman Campus Portal Grounds, organized by Silliman University. I marched as a participant alongside fellow freshmen in the traditional walk through the campus.",
-          "I expected to simply follow the crowd, but walking through the portal grounds made me feel that I was officially stepping into university life. The cheers and the shared excitement showed me how warmly the community welcomes new students.",
-          "The experience helped me appreciate the traditions that bind Sillimanians together. I plan to take part in more university traditions and to live up to the name I now carry. If I could do it again, I would introduce myself to more of the students walking near me.",
-          "Because of this activity, I am more proud to belong to Silliman and more excited for the journey ahead."
+          "On June 11, 2026, at 4:00 PM, I joined the SU Freshie Walk 2026, which lasted about roughly an hour based on my memory alone, walking from Ravello Field to the amphitheater. It was organized by Silliman University, with the student leaders guiding the procession and my fellow freshmen walking alongside me. My role was as a participant. The objective was to experience a campus tradition that marks the start of the academic year and to build a sense of belonging in the community.",
+          "The new skill I learned was campus heritage walking, which means taking part in a tradition as a group and learning what it represents. I expected a basic tour of the campus, but my expectation changed when the shared school spirit made the walk feel like a real welcome. I was surprised at how memorable it was to walk with so many students I had not met yet. The walk expressed my values of unity, pride, and gratitude to be part of Silliman.",
+          "This experience rooted me firmly in the traditions of the university, and it changed how I see myself, as part of a community with a history and not just a new student. I can apply this by welcoming other new students whom I meet. I plan to continue my involvement by joining future campus heritage marches and school pride events. The benefit of this activity is that it made a new place feel like home. If I could do it again, I would introduce myself to more of the freshmen walking beside me.",
+          "Because of this activity, I am more proud, more connected, and more rooted in my university's traditions."
         ],
         "id": 1
       },
@@ -411,13 +394,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "June 16, 2026 | 5:00PM",
         "role": "1 - Participant",
-        "venue": "CCS Grounds",
+        "venue": "SU amphitheater",
         "photo": "culture_2_photo.jpg",
         "reflection": [
-          "On June 16, 2026, at 5:00 PM, I took part in the CCS Freshie Night 2026, held at CCS Grounds, organized by CCS Confederates Student Council. I was there as a participant and joined my fellow CCS freshmen in the welcome night program.",
-          "I arrived a bit shy, but the games and performances helped everyone relax and get to know one another. It felt good to see our college welcome us with so much energy.",
-          "The night showed me that friendships in college begin with small, shared moments. I plan to keep in touch with the people I met and to support future college events. If I could do it again, I would join in the activities more boldly from the start.",
-          "Because of this activity, I am more at ease with my classmates and more connected to my college."
+          "On June 16, 2026, at 5:00 PM, I attended CCS Freshie Night 2026 at the CCS grounds near the SU amphitheater, which lasted around an hour and 30 minutes. It was organized by the CCS Confederates Student Council, with the upperclassmen performing and hosting the games while the computer studies freshmen joined in. My role was as a participant who enjoyed the performances and games. The objective was to integrate informally with my computer studies peers.",
+          "The new skill I developed was peer ice-breaking, which means starting conversations with people I do not know yet. I expected an awkward night of standing around, but my expectation changed because the games and performances made it easy to talk. I was pleasantly surprised by the incredible talents of the upperclassmen. The event expressed my values of friendliness, openness, and appreciation for other people's talents.",
+          "This experience showed me that early peer support networks make college easier, and I realized that friendships outside the classroom help me inside it. I can apply this by collaborating with the friends I made on future class projects. I plan to continue my involvement by attending the college's social events and supporting the next batch of freshmen. The benefit of this activity is that I stopped feeling like a stranger in my own college. If I could do it again, I would join the games more boldly from the very start.",
+          "Because of this activity, I am more sociable, more welcomed, and more excited about my college journey."
         ],
         "id": 2
       },
@@ -429,25 +412,25 @@ window.WPE_DATA = {
         "venue": "Luce Auditorium",
         "photo": "culture_3_photo.jpg",
         "reflection": [
-          "On June 26, 2026, at 7:00 PM, I took part in the Resonance: 100 Years of Music with the Manila Symphony Orchestra, held at Luce Auditorium, organized by Manila Symphony Orchestra. I was there as a participant and watched the Manila Symphony Orchestra perform in celebration of a century of music.",
-          "I expected to enjoy the music, but hearing a full orchestra live made me notice details and emotion that recordings cannot capture. The skill and coordination of the musicians left me in awe.",
-          "This experience deepened my appreciation for classical music and the discipline behind it. I plan to attend more concerts and to listen to a wider range of music. If I could do it again, I would read about the pieces beforehand so I could follow them more closely.",
-          "Because of this activity, I am more appreciative of the arts and more open to new kinds of music."
+          "On June 26, 2026, at 7:00 PM, I attended 'Resonance: 100 Years of Music with the Manila Symphony Orchestra' at the Luce Auditorium, which lasted two hours. It was a night of OPM, classics, and movie music presented by the Manila Symphony Orchestra, whose musicians and conductor performed while the audience listened. My role was as an audience member who enjoyed the ten-piece orchestral program. The objective was to experience live classical fine arts.",
+          "The new skill I acquired was active auditory analysis, which means listening for how the different instruments carry a piece. I expected it to sound like the recordings I play on Spotify, but my expectation changed because hearing an orchestra live for the first time was mesmerizing. I was especially moved by Sho Yong Shuen's oboe performance, which contrasted beautifully with digital recordings. The concert expressed my values of appreciation for the arts and respect for the discipline of the musicians.",
+          "This experience deepened my awareness of complex musical structure and harmonious composition, and it made me see that art takes years of practice. I can apply the same structured appreciation to my logic design and programming. I plan to continue my involvement by attending more live classical performances at the Luce Auditorium. The benefit of this activity is that it widened my taste beyond the music I usually listen to. If I could do it again, I would read the program notes beforehand to follow each piece more closely.",
+          "Because of this activity, I am more culturally refined, more attentive to the fine arts, and more eager for live performances."
         ],
         "id": 3
       },
       {
-        "title": "Voci Di Note: An Evening with Arthur Espiritu and Stephanie Quintin",
+        "title": "Voci di Notte: An Evening with Arthur Espiritu and Stephanie Quintin",
         "organizer": "SU Culture and Arts Council",
         "date": "August 1, 2026 | 2:00PM",
         "role": "1 - Participant",
         "venue": "Luce Auditorium",
         "photo": "culture_4_photo.jpg",
         "reflection": [
-          "On August 1, 2026, at 2:00 PM, I took part in the Voci Di Note: An Evening with Arthur Espiritu and Stephanie Quintin, held at Luce Auditorium, organized by SU Culture and Arts Council. I was there as a participant and watched the classical vocal performances by the featured singers.",
-          "I did not know much about classical singing, yet the evening showed me how much control and artistry a single voice can carry. Hearing the singers perform live made the music feel personal and moving.",
-          "The experience taught me to respect performing artists and the years of practice behind each performance. I plan to explore more vocal music and to support local performers whenever I can. If I could do it again, I would learn about the songs beforehand to understand their stories better.",
-          "Because of this activity, I am more appreciative of classical performing arts and the dedication they require."
+          "On August 1, 2026, at 2:00 PM, I attended 'Voci di Notte' at the Luce Auditorium, which lasted two hours. It was organized by the SU Culture and Arts Council and featured tenor Arthur Espiritu and soprano Stephanie Quintin, with Najib Ismail as the collaborative pianist. My role was as a spectator who watched the classical vocal and operatic performances without any duties. The objective was to experience operatic art forms and enjoy the music.",
+          "The new skill I learned was active cultural engagement, which means following a performance in a language I do not fully understand by listening to tone and expression. I expected the concert to be formal and hard to follow, but my expectation changed when the audience was invited to sing along to 'Funiculi Funicula,' which I enjoyed the most. I was surprised at how a voice and a piano could sound as grand as a full orchestra. The concert expressed my values of openness and appreciation for excellence.",
+          "This experience showed me that music transcends language barriers through tone and conviction. I can apply this by paying attention to how I communicate beyond words in my team projects. I plan to continue my involvement by supporting the vocal arts programs of the Culture and Arts Council. The benefit of this activity is that I experienced opera without having to travel far. If I could do it again, I would research the featured operatic pieces beforehand.",
+          "Because of this activity, I am more open-minded, more artistically observant, and more appreciative of the vocal arts."
         ],
         "id": 4
       },
@@ -456,13 +439,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 1, 2026 | 4:00PM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "SU Gymnasium",
+        "venue": "SU Elementary School",
         "photo": "culture_5_photo.jpg",
         "reflection": [
-          "On August 1, 2026, at 4:00 PM, I took part in the CCS Acquaintance Party 2026, held at SU Gymnasium, organized by CCS Confederates Student Council. I assisted the working committee by checking in guests and helping the program run smoothly during the Acquaintance Party.",
-          "I thought my role would keep me from enjoying the event, but helping behind the scenes let me see how much planning is needed to make everyone feel welcome. Seeing my classmates enjoy themselves made the effort worthwhile.",
-          "This reinforced my appreciation for teamwork and hospitality in hosting events. I plan to volunteer for future committees and to apply what I learned about preparation and coordination. If I could do it again, I would set up the registration area earlier to reduce the wait for guests.",
-          "Because of this activity, I am more skilled in organizing, more considerate of others, and more willing to serve."
+          "On August 1, 2026, at 4:00 PM, I served at the CCS Acquaintance Party 2026 at the SU Elementary School, which lasted around four hours starting from the 4:00 PM call time. It was organized by the CCS Confederates Student Council, with the officers running the program and the upperclassmen, classmates, and other computer studies students attending. My role was as a working committee member in charge of the attendance, mainly the sign-out at the end of the event. The objective was to help with the logistics while getting to know my fellow CCS students.",
+          "The new skill I developed was administrative checkout coordination, which means keeping a line moving while making sure every record is complete. I expected the party to feel like routine administrative work, but my expectation changed because my duty came at the end, so I could mingle, laugh, and hang out with peers from different year levels. I was surprised at how relaxed and enjoyable it was. The event expressed my values of service, friendliness, and belonging.",
+          "This experience proved that social events break down barriers between year levels and are essential in building a genuine sense of belonging. I can apply this by using the connections I made for future college projects and by welcoming other students. I plan to continue my involvement by joining the council's committees for future social events. The benefit of this activity is that it combined service and fun. If I could do it again, I would streamline the checkout line to reduce waiting times.",
+          "Because of this activity, I am more outgoing, better connected with my peers, and more excited to be part of the CCS community."
         ],
         "id": 5
       },
@@ -474,10 +457,10 @@ window.WPE_DATA = {
         "venue": "SU Campus Grounds",
         "photo": "culture_6_photo.jpg",
         "reflection": [
-          "On August 19, 2026, at 9:00 AM, I took part in the One Big Tuyok, held at SU Campus Grounds, organized by CCS Confederates Student Council. I joined the campus tour as a participant and visited the landmarks and learned the stories of the university.",
-          "I walked around the campus every day, yet the tour made me notice places and histories I had overlooked. The stories behind the buildings and traditions made familiar spaces feel more meaningful.",
-          "The experience reminded me that I am part of a long history of students who walked the same grounds. I plan to be more curious about the places around me and to share what I learned with others. If I could do it again, I would bring a notebook to record the stories I heard.",
-          "Because of this activity, I am more connected to the university's history and more proud of its traditions."
+          "On August 19, 2026, at 9:00 AM, I participated in 'One Big Tuyok,' a historical campus tour around the SU campus grounds that lasted one and a half hours. It was organized by the CCS Confederates Student Council, with the tour guides telling the stories of the places we visited and my fellow students walking the route. My role was as a student participant. The objective was to learn Silliman University's history and heritage.",
+          "The new skill I learned was heritage route mapping, which means connecting places on campus with the events and people they are named after. I expected to hear dates I had already learned, but my expectation changed because the new stories made the grounds I pass every day much more meaningful. I was surprised at how much history is hidden in familiar places. The tour expressed my values of gratitude and pride in my school.",
+          "This experience made me aware of the shared history that binds Sillimanians together, and it changed how I see the campus, as a place built by people before me. I can apply this by taking care of the campus and sharing its stories with other students. I plan to continue my involvement by joining campus history tours and observing the university's customs. The benefit of this activity is that it deepened my sense of belonging. If I could do it again, I would carry a notebook to log the historical trivia directly.",
+          "Because of this activity, I am more proud, more united with my fellow students, and more embedded in the university's culture."
         ],
         "id": 6
       },
@@ -486,13 +469,13 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council",
         "date": "August 26, 2026 | 9:00AM",
         "role": "1 - Participant",
-        "venue": "CCS Amphitheater",
+        "venue": "ATA Hall",
         "photo": "culture_7_photo.jpg",
         "reflection": [
-          "On August 26, 2026, at 9:00 AM, I took part in the Tawag ng Tanggalan, held at CCS Amphitheater, organized by CCS Confederates Student Council. I was there as a participant and watched the students perform in the department singing competition.",
-          "I expected a simple contest, but the performers' courage and creativity made it an inspiring show. It was encouraging to see my fellow students express themselves so freely on stage.",
-          "This experience showed me the value of supporting student talent and taking creative risks. I plan to cheer for my peers in future events and to try expressing myself through the arts as well. If I could do it again, I would stay for the entire program and support more of the performers.",
-          "Because of this activity, I am more appreciative of student talent and more confident about expressing myself."
+          "On August 26, 2026, from 9:00 AM to 12:00 NN (about three hours), I attended 'Tawag ng Tanggalan' at the ATA Hall, a required activity organized by the CCS Confederates Student Council. It was a lighthearted singing competition where the worst singer wins, with student contestants performing, the council officers hosting, and the audience cheering. My role was as an audience member who supported the performers. The objective was to enjoy a departmental cultural celebration.",
+          "The new skill I developed was supportive peer observation, which means encouraging a performer sincerely even when the performance is meant to be funny. I expected a silly program that I would only watch, but my expectation changed because I started to admire how brave the contestants were. I was genuinely surprised at their courage to perform lightheartedly in front of the whole hall. The event expressed my values of kindness, joy, and respect for others.",
+          "This experience reminded me of the importance of supporting my peers' non-academic talents and of laughing together as a community. I can apply this by encouraging classmates when they try something outside their comfort zone. I plan to continue my involvement by cheering for student artists in future college talent shows and possibly joining one. The benefit of this activity is that it lightened the mood of the semester. If I could do it again, I would stay for the entire program to support every performer.",
+          "Because of this activity, I am more supportive, more observant, and more appreciative of student artistry."
         ],
         "id": 7
       },
@@ -501,13 +484,13 @@ window.WPE_DATA = {
         "organizer": "Silliman University",
         "date": "August 27, 2026 | 1:00PM",
         "role": "1 - Participant",
-        "venue": "Dumaguete Main City Streets",
+        "venue": "SU Campus Grounds to SU Cimafranca via Dumaguete City Streets",
         "photo": "culture_8_photo.jpg",
         "reflection": [
-          "On August 27, 2026, at 1:00 PM, I took part in the Parada Sillimania 2026, held at Dumaguete Main City Streets, organized by Silliman University. I marched as a participant in the annual street parade through the city.",
-          "I thought it would be just a long walk, but seeing the crowd along the streets made me feel proud to represent the university. The music, banners, and cheers showed how closely Silliman and the city are connected.",
-          "The experience taught me that being a Sillimanian also means being a visible, respectful presence in the community. I plan to take part in future parades and to behave in ways that honor the university. If I could do it again, I would bring more water and prepare for the heat so I could enjoy it fully.",
-          "Because of this activity, I am more proud of my university and more aware of my role in the community."
+          "On August 27, 2026, at 1:00 PM, I joined Parada Sillimania 2026, a required parade that started at the CCS Grounds and passed through the campus and city streets for around quite a long time and officially ended before dinner as the event also included a dance competition. It was organized by Silliman University for its 125th founding anniversary, with the local Dumaguete residents lining the route and my fellow students marching. My role was as a student marcher who waved the flags and joined the parade. The objective was to celebrate the heritage of the university and its ties with the community. When we arrived at Cimafranca Ballfield all of us got a chance to spectate our college compete with other colleges of Silliman in a group dance competition, a part of the event I left after the CCS performed.",
+          "The new skill I learned was civic participation through community marching, which means keeping pace and staying with a group for hours. I expected a simple walk, but my expectation changed when I saw the colorful floats and the crowds, which energized me. I was surprised at how closely connected the university is to the local community. The parade expressed my values of pride, unity, and gratitude.",
+          "This experience helped me see that school celebrations are intertwined with the life of the town, and that a university's anniversary belongs to the community too. I can apply this by taking part in civic traditions instead of just watching them. I plan to continue my involvement by marching in future Founders Week parades. The benefit of this activity is that it connected me with the local culture. If I could do it again, I would bring extra water to handle the street heat better.",
+          "Because of this activity, I am closer to the local culture and very proud of my university's history."
         ],
         "id": 8
       },
@@ -516,13 +499,13 @@ window.WPE_DATA = {
         "organizer": "SU ROTC",
         "date": "September 5, 2026 | 8:00AM",
         "role": "1 - Participant",
-        "venue": "ROTC Hall",
+        "venue": "Luce Auditorium",
         "photo": "culture_9_photo.jpg",
         "reflection": [
-          "On September 5, 2026, at 8:00 AM, I took part in the Inter-Company Speech Contest, held at ROTC Hall, organized by SU ROTC. I was there as a participant and listened to the speakers present in the public speaking contest.",
-          "I came as an audience member, but the contest showed me how much preparation and courage it takes to speak in front of others. Watching the speakers deliver their messages confidently was inspiring.",
-          "The experience reminded me that communication and leadership go together. I plan to practice speaking in class and to join speaking activities in the future. If I could do it again, I would take notes on the speakers' techniques to learn from them.",
-          "Because of this activity, I am more motivated to improve my communication skills and more respectful of those who lead through speech."
+          "On September 5, 2026, at 8:00 AM, I attended the Inter-Company Speech Contest at the Luce Auditorium, which lasted around three hours. It was organized by SU ROTC, with the cadet speakers from the different companies delivering their addresses, the officers judging, and the audience cheering. My role was as a member of the audience who watched and cheered for the speakers. The objective was to observe persuasive communication and leadership speaking.",
+          "The new skill I acquired was rhetorical analysis, which means noticing how a speaker structures an argument and holds attention. I expected a formal and stiff contest, but my expectation changed when the speakers showed confidence and smart thinking. I was really impressed by how well the cadets spoke in front of their peers. The contest expressed my values of respect, courage, and discipline.",
+          "This experience influenced my perspective on the importance of public speaking and articulation in professional and civic life. I can apply what I saw to improve my presentation skills during academic project defenses. I plan to continue my involvement by supporting future ROTC events and practicing speaking in class. The benefit of this activity is that effective communication helps in any career. If I could do it again, I would take detailed notes on the speakers' delivery techniques.",
+          "Because of this activity, I am more confident in speaking up, more articulate, and more inspired to improve my communication skills."
         ],
         "id": 9
       },
@@ -534,10 +517,10 @@ window.WPE_DATA = {
         "venue": "Luce Auditorium",
         "photo": "culture_10_photo.jpg",
         "reflection": [
-          "On September 18, 2026, at 7:00 PM, I took part in the Bagong Asin/Peace Concert, held at Luce Auditorium, organized by Asin (Band). I was there as a participant and listened to the concert promoting peace and environmental awareness.",
-          "I expected to simply enjoy the music, yet the songs and the messages between them made me think about the kind of world we want to live in. Hearing so many voices call for peace made the message feel powerful.",
-          "This reinforced my belief that music can carry important messages and move people to act. I plan to be more mindful of the environment and to speak up for peace in my own way. If I could do it again, I would bring friends so we could discuss the message together afterward.",
-          "Because of this activity, I am more conscious of social issues and more inspired to contribute to peace."
+          "On September 18, 2026, at 7:00 PM, I attended the Bagong Asin Peace Concert, 'Ang Pagkamulat,' at the Luce Auditorium, which lasted two hours. The concert was a chronological narrative of the evolution of Philippine society, staged on September 18 and 19 by the band Asin, with the musicians performing and the audience listening. My role was as a member of the audience who watched the live performances. The objective was to experience music that highlights Filipino heritage, peace, and social unity.",
+          "The new skill I learned was critical listening to the message of a song, not only its melody. I usually listen to contemporary tracks, so I expected a nostalgic concert that I would not relate to, but my expectation changed when the songs on peace and social awareness made me reflect on our shared roots and identity. I was surprised at how relevant the older songs still feel. The concert expressed my values of peace, love of country, and respect for history.",
+          "This experience opened my eyes to how art conveys powerful social messages and builds a connection between people. I can apply this by listening to the lyrics of the music I enjoy and thinking about what they say. I plan to continue my involvement by supporting local peace concerts and environmental art initiatives. The benefit of this activity is that it connected history with music in a way a textbook cannot. If I could do it again, I would bring friends so that we could hold a post-concert discussion on the meanings of the songs.",
+          "Because of this activity, I am more understanding of our culture, more patriotic, and more appreciative of Filipino musical heritage."
         ],
         "id": 10
       },
@@ -549,25 +532,25 @@ window.WPE_DATA = {
         "venue": "Luce Auditorium",
         "photo": "culture_11_photo.jpg",
         "reflection": [
-          "On September 25, 2026, at 7:00 PM, I took part in the Pista Sa Nayon: A Tapestry of Filipino Music Through The Ages, held at Luce Auditorium, organized by SU Culture and Arts Council. I was there as a participant and listened to the presentation of Filipino music from different eras.",
-          "I thought I knew a lot about Filipino music, but the program showed me how rich and varied our musical heritage is. Hearing songs from different periods helped me understand how our culture has changed and endured.",
-          "The experience strengthened my pride in our national culture and my wish to preserve it. I plan to listen to more traditional Filipino music and to share it with my family. If I could do it again, I would learn about the history of the songs beforehand.",
-          "Because of this activity, I am more proud of being Filipino and more appreciative of our musical heritage."
+          "On September 25, 2026, at 7:00 PM, I attended 'Pista Sa Nayon: A Tapestry of Filipino Music Through The Ages' at the Claire Isabel McGill Luce Auditorium, which lasted two hours. It was organized by the SU Culture and Arts Council and featured six vocalists, Elizabeth Veronica Cabahug, Jon Riam Quizo, Katrina Marie Saga-Talaroc, James Alkene Rizza Lamuna, Maria Elcon Kleine Koerkamp, and Melody Enero-Lumagod, together with four pianists, Ricardo Abapo Jr., Gina Raakin, Lemoine Poligrates, and Nathaniel Bicoy. My role was as a member of the audience. The objective was to explore the evolution of Philippine musical heritage.",
+          "The new skill I learned was tracing how a culture changes by listening to its music across eras. I expected a collection of familiar songs, but my expectation changed when the program moved from old traditional tunes to modern opera styles and I felt the storytelling behind each piece. I was surprised at how a voice and a piano alone could carry so much history. The concert expressed my values of curiosity, love of country, and respect for art.",
+          "This experience showed me how old traditions adapt while keeping their core meaning, and it made me think about how I can do the same with my own habits. I can apply this by keeping the fundamentals while trying new academic methods. I plan to continue my involvement by listening to traditional Filipino music and attending the Culture and Arts Council's next concerts. The benefit of this activity is that it deepened my understanding of where our music comes from. If I could do it again, I would study the historical timeline of Filipino music beforehand.",
+          "Because of this activity, I am more patriotic, more culturally aware, and more appreciative of the evolution of local music."
         ],
         "id": 11
       },
       {
-        "title": "Legacy in Sound: 120 Years of Silliman University Symphonic Band",
+        "title": "Legacy in Sound: 120th Founding Anniversary of the Silliman University Band",
         "organizer": "SU Culture and Arts Council/SU Band",
         "date": "October 2, 2026 | 7:00PM",
         "role": "1 - Participant",
         "venue": "Luce Auditorium",
         "photo": "culture_12_photo.jpg",
         "reflection": [
-          "On October 2, 2026, at 7:00 PM, I took part in the Legacy in Sound: 120 Years of Silliman University Symphonic Band, held at Luce Auditorium, organized by SU Culture and Arts Council/SU Band. I was there as a participant and watched the symphonic band celebrate its 120th anniversary.",
-          "I expected a good performance, but knowing the band had played for generations made each piece feel more meaningful. The precision and teamwork of the musicians showed what long-term dedication can achieve.",
-          "This experience reminded me that excellence is built through years of commitment and tradition. I plan to carry that spirit of dedication into my own goals. If I could do it again, I would arrive earlier to enjoy the full program and read about the band's history first.",
-          "Because of this activity, I am more inspired by dedication and more proud of the legacy of my university."
+          "On October 2, 2026, at 7:00 PM, I attended 'Legacy in Sound,' the concert celebrating the 120th founding anniversary of the Silliman University Band, at the Luce Auditorium, which lasted two hours. It was organized by the SU Culture and Arts Council together with the SU Band, led by Band Director Asst. Prof. Joseph Albert Basa, with the Silliman University Band Twirlers and the returning Band Alumni performing. My role was as a member of the audience. The objective was to celebrate the band's 120 years of musical legacy.",
+          "The new skill I learned was appreciating long-term discipline, by seeing the result of decades of rehearsal in one performance. I expected a standard band concert, but my expectation changed when the program mixed classical standards, cinematic soundtracks, and modern pop hits. I was surprised at the precision and scale of the band, and by the return of the alumni. The concert expressed my values of perseverance, gratitude, and school pride.",
+          "This experience showed me how enduring student groups leave remarkable legacies, because every member adds to something that lasts beyond them. I can apply this by working with long-term dedication on my school projects. I plan to continue my involvement by attending the university's band concerts and supporting the Culture and Arts Council. The benefit of this activity is that it deepened my pride in my school's history. If I could do it again, I would arrive early to read the historical exhibits about the band.",
+          "Because of this activity, I am more inspired, more culturally enriched, and more proud of my university's musical legacy."
         ],
         "id": 12
       }
@@ -584,28 +567,28 @@ window.WPE_DATA = {
         "organizer": "Silliman University",
         "date": "July 26, 2026 | 4:30AM",
         "role": "1 - Participant",
-        "venue": "SU Boulevard to Campus Grounds",
+        "venue": "Looc Bypass Area to Dumaguete Boulevard",
         "photo": "community_1_photo.jpg",
         "reflection": [
-          "On July 26, 2026, at 4:30 AM, I took part in the Nutri-Fit Walk: A Walk For A Cause, held at SU Boulevard to Campus Grounds, organized by Silliman University. I joined the early morning walk as a participant in support of community nutrition and health.",
-          "I did not expect to feel energized so early in the morning, but walking with others for a cause made the distance feel easier. The activity showed me that small actions, like walking, can support a bigger purpose.",
-          "The experience reminded me to value my health and to encourage others to do the same. I plan to include regular exercise and healthy eating in my daily routine. If I could do it again, I would invite my friends and family to walk with me.",
-          "Because of this activity, I am more mindful of my health and more willing to support causes that help others."
+          "On July 26, 2026, at 4:30 AM, I participated in the Barangay Nutri-Fit Walk from SU Boulevard to the Campus Grounds, which lasted roughly until 7:00 AM. It was organized by not only Silliman University but also other colleges and even the barangay for National Nutrition Month under the theme 'Nutrisyon at Kalikasan, Ating Pangalagaan!', with members of the health sector leading and my peers and community walkers joining. My role was as an early-morning walker. The objective was to promote community health, nutrition, and environmental care.",
+          "The thing I learned was health advocacy through mass fitness mobilization, which means using a simple walk to spread an advocacy. I expected an easy morning walk, but my expectation changed when waking up at dawn tested my discipline and walking with the health sector members linked fitness with social welfare. I was surprised at how many people joined so early. The walk expressed my values of discipline, health, and care for the community and nature.",
+          "This activity changed my worldview by relating personal fitness to community causes, because my own health is part of a bigger effort. I can apply this by staying active and by sharing nutrition tips with my family. I plan to continue my involvement by joining future charity fitness walks and fun runs. The benefit of this activity is that it improved my health while supporting a cause. If I could do it again, I would invite a larger group of friends to walk with me.",
+          "Because of this activity, I am more health-conscious, more socially oriented, and more community-driven."
         ],
         "id": 1
       },
       {
         "title": "#BiteBack: Tapok Batok sa Lamok: A Dengue Awareness Month Initiative",
-        "organizer": "Silliman University",
+        "organizer": "Silliman University / SUSG Health Committee",
         "date": "August 15, 2026 | 1:00PM",
         "role": "1 - Participant",
-        "venue": "Community Barangay Hall",
+        "venue": "AVT 1",
         "photo": "community_2_photo.jpg",
         "reflection": [
-          "On August 15, 2026, at 1:00 PM, I took part in the #BiteBack: Tapok Batok sa Lamok: A Dengue Awareness Month Initiative, held at Community Barangay Hall, organized by Silliman University. I was involved as a participant in the awareness drive for dengue prevention in the community.",
-          "I thought dengue prevention was only the work of health workers, but the activity showed me that everyone has a part to play. Learning simple steps, like clearing standing water, made the problem feel manageable.",
-          "This reinforced my sense of responsibility toward public health. I plan to practice these preventive steps at home and to share them with my neighbors. If I could do it again, I would prepare flyers or information to hand out to more households.",
-          "Because of this activity, I am more aware of public health and more ready to act for the safety of my community."
+          "On August 15, 2026, from 1:00 PM to 4:00 PM (about three hours), I attended #BiteBack: Tapok Batok sa Lamok, a Dengue Awareness Month initiative at AVT 1. It was organized by Silliman University with the SUSG Health Committee, which also handled the blood donation drive for registered prospective donors at the Oriental Hall Student Lounge, and the students, volunteers, and health professionals took part. My role was as a participant learning about dengue prevention through a lecture. The objective was to promote dengue awareness, proper environmental sanitation, and a healthier and safer community. Though there was also a cleanup drive to find and exterminate mosquito breeding grounds, I did not attend due to personal reasons.",
+          "Despite not attending the cleanup part of the event, the knowledge I acquired was understanding how to prevent dengue by controlling the places where mosquitoes breed. I expected a simple lecture that repeats what I already know, but my expectation changed when I learned how much depends on clean surroundings. I was surprised at the amount of actionable safety information shared. The activity expressed my values of responsibility, compassion, and care for others' health.",
+          "This activity gave me a new perspective on community health advocacy, because preventing disease takes everyone's effort and not only doctors. I can apply this by clearing standing water at home and sharing safety tips with my neighbors. I plan to continue my involvement by supporting the SUSG Health Committee's future campaigns. The benefit of this activity is that it protects both me and my community. If I could do it again, I would volunteer for the clean-up and the blood donation support as well.",
+          "Because of this activity, I am more health-conscious, more socially aware, and more ready to act for my community."
         ],
         "id": 2
       },
@@ -614,28 +597,28 @@ window.WPE_DATA = {
         "organizer": "SU ROTC",
         "date": "September 26, 2026 | 2:00PM",
         "role": "1 - Participant",
-        "venue": "ROTC Parade Grounds",
+        "venue": "SU Cimafranca Ballfield",
         "photo": "community_3_photo.jpg",
         "reflection": [
-          "On September 26, 2026, at 2:00 PM, I took part in the Presentation of Sponsors 2026 (OSA Marching Review), held at ROTC Parade Grounds, organized by SU ROTC. I marched as a participant in the presentation honoring the sponsors of the program.",
-          "I expected a standard formal activity, but the marching and the ceremony showed how much respect and gratitude are given to those who support the program. Staying in formation required focus, patience, and cooperation.",
-          "The experience taught me about civic honor and appreciation for people who contribute to the community. I plan to show gratitude more often and to take part in ceremonies with discipline. If I could do it again, I would practice the formation more so that everything would be more coordinated.",
-          "Because of this activity, I am more disciplined, more respectful, and more thankful for those who support us."
+          "On September 26, 2026, at 2:00 PM, I took part in the Presentation of Sponsors 2026 (OSA Marching Review) at the Cimafranca Ballfield, which lasted around four hours, including a final rehearsal before the main event itself. It was organized by SU ROTC, with the cadet units marching, the officers leading the review, and the student sponsors being presented. My role was as a member of the first squad of the first company, marching in the review. The objective was to honor the unit sponsors while demonstrating military discipline and community support.",
+          "The new skill I learned was marching in synchronized formation, which means keeping my timing and spacing in tune with the whole unit. I expected a simple ceremony, but my expectation changed when I saw how much hard work and teamwork go into a few minutes of marching. I was surprised by how synchronized our formations became. The review expressed my values of respect, discipline, and support for the community.",
+          "This experience changed how I view school traditions, because I realized that discipline and organized teamwork keep a community safe, united, and respectful. I can apply this by following rules and working carefully with others. I plan to continue my involvement by staying disciplined in my ROTC training and supporting campus events. The benefit of this activity is that it strengthened my bond with my unit. If I could do it again, I would run extra formation drills beforehand for better synchronization.",
+          "Because of this activity, I am more disciplined, more respectful, and more supportive of my community."
         ],
         "id": 3
       },
       {
-        "title": "Coastal Clean up Drive",
-        "organizer": "Stephannie A. Enghog",
+        "title": "Coast to Coast: A CCS Coastal Cleanup",
+        "organizer": "CCS Confederates Student Council (Stephannie A. Enghog)",
         "date": "September 27, 2026 | 5:30AM",
         "role": "2 - Working Committee - Attendance",
-        "venue": "Dumaguete Coastal Shoreline",
+        "venue": "Silliman Beach to Cheesestick Country",
         "photo": "community_4_photo.jpg",
         "reflection": [
-          "On September 27, 2026, at 5:30 AM, I took part in the Coastal Clean up Drive, held at Dumaguete Coastal Shoreline, organized by Stephannie A. Enghog. I served on the working committee and handled attendance for volunteers during the coastal clean-up.",
-          "I arrived before sunrise and was surprised by how much trash had collected along the shoreline. Helping to organize the volunteers while seeing the cleanup progress made me realize how much we can accomplish together.",
-          "This experience strengthened my concern for the marine environment and my belief in taking part in hands-on action. I plan to reduce my own waste and to join future cleanups. If I could do it again, I would bring gloves and extra bags to contribute even more directly.",
-          "Because of this activity, I am more environmentally responsible and more committed to caring for our coastline."
+          "On September 27, 2026, at 5:30 AM, I took part in 'Coast to Coast: A CCS Coastal Cleanup' along Dumaguete's coastline from Silliman Beach to Cheesestick Country, which lasted around one and a half hours, roughly ending at 7:00 AM. It was organized by the CCS Confederates Student Council, with Stephannie A. Enghog coordinating the volunteers, and it supported the National Coastal Cleanup observed on September 19. The cleanup was originally planned for September 20 but was moved to September 27. My role was as a working committee member for attendance, signing in volunteers, and I also helped clear plastics along the shore. The objective was to help address the accumulation of waste along the coast and promote proper waste segregation and environmental awareness.",
+          "The new skill I developed was volunteer attendance coordination combined with waste sorting, which means keeping track of people while doing the cleanup myself. I expected a quick morning of picking up a little trash, but my expectation changed when I saw the volume of waste on the shoreline. I was surprised and it deepened my awareness of pollution. The cleanup expressed my values of stewardship, responsibility, and care for my community's environment.",
+          "This experience strengthened my commitment to marine conservation and proper waste management, since I saw the effect of our daily habits on the coast. I can apply this by reducing my personal waste and segregating properly. I plan to continue my involvement by joining future coastal cleanups and encouraging classmates to come. The benefit of this activity is that it improves the coast that our community depends on. If I could do it again, I would bring extra heavy-duty gloves so that I could collect more plastics directly.",
+          "Because of this activity, I am more environmentally conscious, more active, and more responsible."
         ],
         "id": 4
       },
@@ -644,13 +627,13 @@ window.WPE_DATA = {
         "organizer": "Silliman University",
         "date": "October 6, 2026 | 10:00AM",
         "role": "1 - Participant",
-        "venue": "SU Church Extension Hall",
+        "venue": "Oriental Hall",
         "photo": "community_5_photo.jpg",
         "reflection": [
-          "On October 6, 2026, at 10:00 AM, I took part in the Donation Drive, held at SU Church Extension Hall, organized by Silliman University. I was involved as a participant by donating items and helping sort goods for relief outreach.",
-          "I thought donating was simply handing over items, but sorting them showed me how much effort goes into making sure help reaches the right people. Seeing the donations pile up showed me the generosity of the community.",
-          "The experience taught me that giving is most meaningful when done with care and organization. I plan to continue donating and to volunteer in similar drives. If I could do it again, I would encourage more of my classmates to contribute.",
-          "Because of this activity, I am more compassionate, more generous, and more willing to help others in need."
+          "On October 6, 2026, at 10:00 AM, I participated in the Donation Drive at the SU Church Extension Hall. It is located at Oriental Hall and was organized by Silliman University from the information I could gather, with the student contributors and volunteers bringing items to donate, which they did at different times as it was not a structured formal event. My role was as a contributor and helper who dropped off a notebook as a donation. The objective was to support community welfare and assist underprivileged families.",
+          "The new skill I learned was goods categorization, which means sorting donations so they can be distributed quickly and fairly. I expected to just drop off my donation and leave, but my expectation changed when I helped sort and saw how much work relief distribution needs. I was surprised and moved by the generosity of the campus community. The drive expressed my values of generosity, compassion, and service.",
+          "This activity proved to me that giving is most impactful when it is organized with care, and that even a small item matters when many people give. I can apply this by donating things that are useful and by helping in organizing. I plan to continue my involvement by participating in the university's donation drives regularly. The benefit of this activity is that it connects students to families who need help. If I could do it again, I would encourage more classmates to contribute items.",
+          "Because of this activity, I am more generous and more socially responsible."
         ],
         "id": 5
       },
@@ -659,16 +642,17 @@ window.WPE_DATA = {
         "organizer": "CCS Confederates Student Council/GE10",
         "date": "October 7, 2026 | 8:00AM",
         "role": "3 - Donor",
-        "venue": "Sto. Niño Orphanage Center",
+        "venue": "ATA Hall Room 3",
         "photo": "community_6_photo.jpg",
         "reflection": [
-          "On October 7, 2026, at 8:00 AM, I took part in the Sto. Niño Orphanage White Gift Program, held at Sto. Niño Orphanage Center, organized by CCS Confederates Student Council/GE10. I contributed gifts as a donor for the children during the White Gift program.",
-          "I expected the activity to be mostly about giving things, yet preparing the gifts made me think about the children who would receive them and what the gifts might mean to them. Giving felt personal and joyful.",
-          "This reinforced my understanding that social responsibility means sharing what I have with those who have less. I plan to keep giving back and to look for more ways to support children in need. If I could do it again, I would also spend time with the children and not only give gifts.",
-          "Because of this activity, I am more thoughtful, more generous, and more aware of my responsibility to others."
+          "On October 7, 2026, at 8:00 AM, I participated as a donor in the Sto. Niño Orphanage White Gift Program for the Sto. Niño Orphanage Center itself, which originally started at 9:30 AM in our GE 10 classroom, though I started preparing and communicating with my group at 8:00 AM. It was organized by the CCS Confederates Student Council and our GE 10 class, with my groupmates preparing the gifts, the recycled Christmas card, and the gift wrapping, and the orphanage residents and staff receiving us. My role was as a donor, buying adult diapers, bond paper, and soap, and helping box and wrap the gifts. The objective was to share a white gift with the orphans of Sto. Niño Orphanage.",
+          "The new skill I acquired was thoughtful package preparation, which means choosing what the recipients need, keeping the expiry dates in mind, and designing a card from recyclable materials where each of us could add a greeting. I expected the activity to be a requirement that I would just complete, but my expectation changed as I thought about the children and residents who would receive the gifts. I was surprised at how personal giving became. The program expressed my values of compassion, generosity, and creativity.",
+          "This activity gave me a new perspective on responsibility to the people who need help, and on how outreach can be planned together as a group. I can apply this by giving based on what people truly need and not only on what is convenient. I plan to continue my involvement by supporting orphanage gift programs and looking for ways to help children. The benefit of this activity is that a group can give more than each member could alone. If I could do it again, I would stay longer to interact directly with the children during the visit.",
+          "Because of this activity, I am more compassionate, more charitable, and more empathic."
         ],
         "id": 6
       }
     ]
   }
 };
+
